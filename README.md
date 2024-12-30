@@ -5,6 +5,13 @@ This is a Java-based mobile application built with Android Studio and Gradle, fe
 - ✏️ Update account details
 - 🗑️ Delete their account
 
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Development](#development)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## 🌟 Features
 - CRUD Operations: Full functionality for user management.
 - Authentication: Secure login with password protection.
