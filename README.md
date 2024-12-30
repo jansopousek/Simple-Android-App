@@ -12,13 +12,13 @@ This is a Java-based mobile application built with Android Studio and Gradle, fe
 - [Contributing](#contributing)
 - [Contact](#contact)
 
-## 🌟 Features
+## Features 🌟
 - CRUD Operations: Full functionality for user management.
 - Authentication: Secure login with password protection.
 - Responsive UI: Simple and intuitive mobile interface.
 - Database Integration: Persistent storage using MySQL (or SQLite).
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 - Backend
     - Java
     - Gradle for dependency management
@@ -29,7 +29,7 @@ This is a Java-based mobile application built with Android Studio and Gradle, fe
     - Retrofit for API integration
     - XML layouts for UI design
 
-## 🏗️ Development
+## Development 🏗️
 - Setup
     - Clone the repository:
     ```bash
@@ -47,7 +47,7 @@ This is a Java-based mobile application built with Android Studio and Gradle, fe
     - Open the mobile folder in Android Studio.
     - Run the app on an emulator or physical device.
 
-## 🤝 Contributions
+## Contributions 🤝
 - Feel free to fork this repo, create issues, and submit pull requests! Let's build together. 😊
 
 ## Contact
