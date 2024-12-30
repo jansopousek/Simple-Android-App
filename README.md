@@ -1,15 +1,15 @@
 # 🚀 User Management Mobile App
 This is a Java-based mobile application built with Android Studio and Gradle, featuring a responsive UI and backend integration for managing user accounts. Users can:
-    - ✅ Create an account
-    - 🔐 Log in to their account
-    - ✏️ Update account details
-    - 🗑️ Delete their account
+- ✅ Create an account
+- 🔐 Log in to their account
+- ✏️ Update account details
+- 🗑️ Delete their account
 
 ## 🌟 Features
-    - CRUD Operations: Full functionality for user management.
-    - Authentication: Secure login with password protection.
-    - Responsive UI: Simple and intuitive mobile interface.
-    - Database Integration: Persistent storage using MySQL (or SQLite).
+- CRUD Operations: Full functionality for user management.
+- Authentication: Secure login with password protection.
+- Responsive UI: Simple and intuitive mobile interface.
+- Database Integration: Persistent storage using MySQL (or SQLite).
 
 ## 🛠️ Tech Stack
 - Backend
@@ -32,7 +32,7 @@ This is a Java-based mobile application built with Android Studio and Gradle, fe
 - Backend:
     - Navigate to the backend folder and run:
     ```shell
-        ./gradlew bootRun
+    ./gradlew bootRun
     ```
     - Ensure the database is properly configured in application.properties.
 
